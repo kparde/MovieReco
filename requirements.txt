@@ -25,7 +25,7 @@ docutils==0.15.2
 editdistance==0.5.3
 entrypoints==0.3
 enum-compat==0.0.3
-fastparquet==0.4.0
+fastparquet==1.16.0
 funcy==1.14
 future==0.18.2
 fuzzywuzzy==0.18.0
@@ -59,7 +59,7 @@ nltk==3.5
 notebook==6.0.3
 numba==0.49.1
 numexpr==2.7.1
-numpy==1.18.4
+numpy==1.22.3
 packaging==20.3
 pandas==1.0.3
 pandocfilters==1.4.2
@@ -108,7 +108,7 @@ terminado==0.8.3
 testpath==0.4.4
 thinc==7.4.0
 threadpoolctl==2.0.0
-thrift==0.13.0
+thrift==0.16.0
 toml==0.10.1
 toolz==0.10.0
 tornado==5.1.1
@@ -121,5 +121,6 @@ wasabi==0.6.0
 watchdog==0.10.2
 wcwidth==0.1.9
 webencodings==0.5.1
+wheel==0.37.1
 widgetsnbextension==3.5.1
 xlrd==1.2.0
