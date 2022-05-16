@@ -34,7 +34,7 @@ import pandas as pd
 import os
 import numpy as np
 import operator
-from setuptools import fastparquet
+import setuptools 
 import re
 from fuzzywuzzy import fuzz
 from sklearn.feature_extraction.text import TfidfVectorizer
