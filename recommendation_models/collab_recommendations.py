@@ -35,7 +35,7 @@ import random
 import time
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-from setuptools import fastparquet
+import setuptools 
 import pickle
 import scipy
 import sklearn
