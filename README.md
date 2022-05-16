@@ -1,4 +1,4 @@
-# DS5500-Movie-Recommendation-System
+# MovSic Part 1 MovieReco
 
   * [Data](#data)
   * [UI Overview](#ui-overview)
