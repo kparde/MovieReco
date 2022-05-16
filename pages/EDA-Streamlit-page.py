@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import datetime as datetime
 import operator
-from setuptools import fastparquet
+import setuptools 
 import streamlit as st
 from PIL import Image
 
