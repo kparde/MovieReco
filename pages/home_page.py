@@ -14,7 +14,7 @@ import streamlit as st
 
 
 def write():
-    st.title('Welcome to the Movie Recommender!')
+    st.title('Welcome to the Movsic Recommender!')
     st.header('Select your destination on the left menu')
     st.write("""
     - **Top Movie Visualizations**: View visualizations of the movies in our catalog to understand what makes a great movie.
