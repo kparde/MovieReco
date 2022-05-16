@@ -1,0 +1,43 @@
+Precision for fold 1 is 0.8650634602538403
+Recall for fold 1  is 0.2632331442535211
+Precision for fold 2 is 0.8728518890003332
+Recall for fold 2  is 0.25019292332578164
+Precision for fold 3 is 0.8661651621531256
+Recall for fold 3  is 0.2642380055496779
+Precision for fold 4 is 0.8563333333333331
+Recall for fold 4  is 0.2636585347978812
+Precision for fold 5 is 0.8535738142952571
+Recall for fold 5  is 0.24798198452143122
+Avg Precision @5 for kfold =5 is 0.8627975318071778
+Avg Recall @5 for kfold =5 is 0.25786091848965864
+
+
+Personalization score for 10 folds across 20 users for top 10 recommendations: 0.7873684210526315
+
+
+Diversity of movies recommended for user 119520: 0.35147924290826027
+Diversity of movies recommended for user 27088: 0.3723288753748619
+Diversity of movies recommended for user 46345: 0.36569681889021766
+Diversity of movies recommended for user 129410: 0.3265617363133322
+Diversity of movies recommended for user 156903: 0.3473476603198713
+Diversity of movies recommended for user 74259: 0.34805829314959524
+Diversity of movies recommended for user 83333: 0.3705771519975515
+Diversity of movies recommended for user 28206: 0.3605975949620981
+Diversity of movies recommended for user 54757: 0.331696790397374
+Diversity of movies recommended for user 130620: 0.333360192297949
+Diversity of movies recommended for user 81247: 0.4263287807804603
+Diversity of movies recommended for user 97672: 0.3686981574717142
+Diversity of movies recommended for user 30418: 0.4255381149862012
+Diversity of movies recommended for user 112914: 0.36981874878996124
+Diversity of movies recommended for user 52473: 0.3560460458112349
+Diversity of movies recommended for user 127191: 0.3649015996823537
+Diversity of movies recommended for user 87915: 0.35956434477420096
+Diversity of movies recommended for user 126195: 0.36880362844025316
+Diversity of movies recommended for user 52534: 0.3941512458533071
+Diversity of movies recommended for user 149592: 0.348776690668966
+Average diversity over 20 users for their top 10 recommendations (0 = identical): 0.36451658569348827
+
+
+Average movie rating of top 10 movies recommended to 20 users: 4.07
+
+Average of the minimum count of ratings for 20 user's top 10 recommendations (long tail): 1495.15
