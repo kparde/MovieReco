@@ -23,7 +23,7 @@ import numpy as np
 import datetime as datetime
 import operator
 import streamlit as st
-import fastparquet
+from setuptools import fastparquet
 import re
 from fuzzywuzzy import fuzz
 
