@@ -2,6 +2,7 @@ pandas==1.0.5
 numpy==1.19.0
 scipy==1.5.0
 spacy==3.3.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
 matplotlib==3.2.2
 seaborn==0.10.1
 fastparquet==0.4.0
