@@ -29,7 +29,7 @@ import pandas as pd
 import os
 import numpy as np
 import operator
-import fastparquet
+from setuptools import fastparquet
 import re
 from fuzzywuzzy import fuzz
 from sklearn.feature_extraction.text import TfidfVectorizer
