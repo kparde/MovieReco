@@ -101,6 +101,7 @@ six==1.14.0
 sklearn==0.0
 smart-open==2.0.0
 spacy==2.2.4
+spacy.en_core_web_sm==2.2.5
 srsly==1.0.2
 statsmodels==0.11.1
 streamlit==0.61.0
